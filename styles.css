@@ -1,0 +1,22 @@
+img {
+    width: 650px;
+    height: 350px;
+}
+ul li {
+    list-style-type: none;
+}
+
+hr {
+    border: none;
+    height: 1px;
+    background-color: #333; /* Color de la línea */
+    margin: 20px 0; /* Margen superior e inferior */
+}
+
+.hr-titulo {
+    padding-left: 40px;
+}
+
+h1 {
+    margin-left: 40px;
+}
